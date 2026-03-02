@@ -1,1 +1,2 @@
-
+- name: Setup Wasmer
+  uses: wasmerio/setup-wasmer@v3.1
